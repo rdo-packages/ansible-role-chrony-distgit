@@ -32,7 +32,12 @@ BuildRequires:  python%{pyver}-devel
 BuildRequires:  python%{pyver}-setuptools
 BuildRequires:  python%{pyver}-pbr
 
+# Handle python2 exception
+%if %{pyver} == 2
 Requires: ansible
+%else
+Requires: ansible-python3
+%endif
 
 %description
 
