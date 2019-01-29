@@ -36,7 +36,7 @@ BuildRequires:  python%{pyver}-pbr
 %if %{pyver} == 2
 Requires: ansible
 %else
-Requires: ansible-python3
+Requires: python3dist(ansible)
 %endif
 
 %description
