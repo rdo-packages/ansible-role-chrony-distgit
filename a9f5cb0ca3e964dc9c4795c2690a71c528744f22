@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1812af87_67bac5b3",
+        "filename": "ansible-role-chrony.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 128
+      },
+      "writtenOn": "2019-04-22T09:38:49Z",
+      "side": 1,
+      "message": "For pre-releases, it should be 0.1",
+      "range": {
+        "startLine": 26,
+        "startChar": 16,
+        "endLine": 26,
+        "endChar": 17
+      },
+      "revId": "a9f5cb0ca3e964dc9c4795c2690a71c528744f22",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dc2b41b3_c4eb7749",
+        "filename": "ansible-role-chrony.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 128
+      },
+      "writtenOn": "2019-04-22T09:38:49Z",
+      "side": 1,
+      "message": "0.1",
+      "range": {
+        "startLine": 73,
+        "startChar": 55,
+        "endLine": 73,
+        "endChar": 56
+      },
+      "revId": "a9f5cb0ca3e964dc9c4795c2690a71c528744f22",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    }
+  ]
+}
