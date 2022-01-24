@@ -1,5 +1,5 @@
 %{!?sources_gpg: %{!?dlrn:%global sources_gpg 1} }
-%global sources_gpg_sign 0x5d2d1e4fb8d38e6af76c50d53d4fec30cf5ce3da
+%global sources_gpg_sign 0x01527a34f0d0080f8a5db8d6eb6c5df21b4b6363
 
 %global srcname ansible_role_chrony
 %global rolename ansible-role-chrony
@@ -7,7 +7,7 @@
 %{!?upstream_version: %global upstream_version %{version}%{?milestone}}
 
 Name:           %{rolename}
-Version:        1.0.3
+Version:        1.1.0
 Release:        1%{?dist}
 Summary:        Ansible role to manage chrony
 
@@ -67,6 +67,9 @@ export SKIP_PIP_INSTALL=1
 
 
 %changelog
+* Mon Jan 24 2022 Alex Schultz <aschultz@redhat.com> 1.1.0-1
+- Update to 1.1.0
+
 * Thu Oct 21 2021 RDO <dev@lists.rdoproject.org> 1.0.3-1
 - Update to 1.0.3
 
