@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7da993b3_193cc8ac",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 403
+      },
+      "writtenOn": "2022-01-25T15:44:30Z",
+      "side": 1,
+      "message": "c9 failure due to mirror issue",
+      "revId": "3e863cdbc53459a4e71f2ff271ad30ee0cbe559a",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
+    }
+  ]
+}
