@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3bb0b8eb_f72cffac",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 403
+      },
+      "writtenOn": "2022-01-25T14:56:32Z",
+      "side": 1,
+      "message": "Let\u0027s update the tag in rdoinfo, and let the bot propose this patch instead.",
+      "revId": "56b969355b2babf85bcff93de243651712a062e6",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
+    }
+  ]
+}
