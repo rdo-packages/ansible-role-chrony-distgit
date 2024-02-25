@@ -71,3 +71,4 @@ export SKIP_PIP_INSTALL=1
 - Update to 1.3.0
 
 
+# REMOVEME: error caused by commit https://opendev.org/openstack/ansible-role-chrony/commit/565e1d0c46df3a80dee460a37c9cf8261370b469
